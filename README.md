@@ -20,11 +20,12 @@ Commands:
 ## Get Started
 ### Pull from database
 Type the command and hit `Enter`, then follow the instructions:
-输入以下命令后按回车，跟随提示操作
+
+输入以下命令后按`回车`，随后跟随提示操作：
 ```shell
 $ isync pull
 🌚 项目文件夹? (.) 
-✔️已找到项目文件夹
+✔ 已找到项目文件夹
 ✔ Implementations Folder Found!
 ✔ Sources Folder Found!
 ✔ Data Fetched!
