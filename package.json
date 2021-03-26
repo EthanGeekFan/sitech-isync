@@ -1,5 +1,5 @@
 {
-  "name": "isync",
+  "name": "sitech-isync",
   "version": "0.0.1",
   "description": "Sync tag computation implementation from database.",
   "main": "index.js",
