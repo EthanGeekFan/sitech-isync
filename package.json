@@ -1,0 +1,23 @@
+{
+  "name": "isync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "isync": "./bin/isync.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cli-progress": "^3.9.0",
+    "commander": "^7.2.0",
+    "inquirer": "^8.0.0",
+    "nunjucks": "^3.2.3",
+    "ora": "^5.4.0"
+  }
+}
