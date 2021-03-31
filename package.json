@@ -1,6 +1,6 @@
 {
   "name": "sitech-isync",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "Sync tag computation implementation from database.",
   "main": "index.js",
   "bin": {
