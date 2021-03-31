@@ -33,3 +33,6 @@ $ isync pull
 Generating sources              ████████████████████████████████████████ 100% | Duration: 0s | ETA: 0s
 Generating implementations      ████████████████████████████████████████ 100% | Duration: 0s | ETA: 0s
 ```
+
+## Developer
+具体获取数据库代码的函数在`lib/pull.js`中的`fetchDatabase()`，并且包含了返回值样例。
